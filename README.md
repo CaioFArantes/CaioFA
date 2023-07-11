@@ -21,15 +21,15 @@ ________________________________________________________________________________
   3) Brief calculation:
   
     3.1) What is the total volume of each available category?
-    *c.2) Finding the total Rent value (Rent + Condo Fee) and the Gross m² price - For the whole DB
-    *c.3) Finding the Net m² price (only considering Rent, not condo fee) - For the whole DB
-    *c.4) Condo fee per m² (absolute value and diff percentage(%) of rent)
+    3.2) Finding the total Rent value (Rent + Condo Fee) and the Gross m² price - For the whole DB
+    3.3) Finding the Net m² price (only considering Rent, not condo fee) - For the whole DB
+    3.4) Condo fee per m² (absolute value and diff percentage(%) of rent)
 
-  *d) Questions to solve through analysis:
+  4) Questions to solve through analysis:
   
-    *d.1) How many residential appartmanets I have in my database and what is the Mean value of them? How much can I have as a potential profit?
-    *d.2) What are the Top 10 most valuable Neighbourhoods?
-    *d.3) What is the mean price for each one?
-    *d.4) What is the median size of the available appartments at these top 10 neighbourhoods?
-    *d.5) What is the most frequent typology (number of rooms) in each neighborhood?
-    *d.6) How many car spaces are more frequent in each neighborhood?
+    4.1) How many residential appartmanets I have in my database and what is the Mean value of them? How much can I have as a potential profit?
+    4.2) What are the Top 10 most valuable Neighbourhoods?
+    4.3) What is the mean price for each one?
+    4.4) What is the median size of the available appartments at these top 10 neighbourhoods?
+    4.5) What is the most frequent typology (number of rooms) in each neighborhood?
+    4.6) How many car spaces are more frequent in each neighborhood?
