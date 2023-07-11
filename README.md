@@ -20,10 +20,10 @@ ________________________________________________________________________________
   2) Clustering classification
   3) Brief calculation:
   
-    1) What is the total volume of each available category?
-    2) Finding the total Rent value (Rent + Condo Fee) and the Gross m² price - For the whole DB
-    3.3) Finding the Net m² price (only considering Rent, not condo fee) - For the whole DB
-    3.4) Condo fee per m² (absolute value and diff percentage(%) of rent)
+    a) What is the total volume of each available category?
+    b) Finding the total Rent value (Rent + Condo Fee) and the Gross m² price - For the whole DB
+    c) Finding the Net m² price (only considering Rent, not condo fee) - For the whole DB
+    d) Condo fee per m² (absolute value and diff percentage(%) of rent)
 
   4) Questions to solve through analysis:
   
