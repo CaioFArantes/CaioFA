@@ -16,8 +16,8 @@ ________________________________________________________________________________
 
   * The steps were:
     
-  *a) clearing NaN values
-  *b) Clustering classification
+  1) clearing NaN values
+  2) Clustering classification
   *c) Brief calculation:
   
     *c.1) What is the total volume of each available category?
